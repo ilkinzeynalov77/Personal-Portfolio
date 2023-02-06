@@ -659,7 +659,9 @@ body.light-theme{
     padding: 1rem;
     border-radius: 1rem;
 }
-
+.imgwork{
+    height: 230px;
+}
 .work__img{
     border-radius: 1rem;
     margin-bottom: .75rem;
